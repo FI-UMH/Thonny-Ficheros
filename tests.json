@@ -1,0 +1,182 @@
+{
+  "p001": [
+    {
+      "stdin": "2\ne\n",
+      "filesIni": {
+        "entrada.txt": "Hola verano"
+      },
+      "stdout": "Introduce un entero N: 2\nIntroduce un caracter C: e\nTotal de caracteres: (20) (10)\n",
+      "filesEnd": {
+        "salida.txt": "HHoollaa  vvrraannoo",
+        "entrada.txt": "Hola verano"
+      }
+    },
+    {
+      "stdin": "2\ne\n",
+      "filesIni": {
+        "entrada.txt": "Pepito grillo"
+      },
+      "stdout": "Introduce un entero N: 2\nIntroduce un caracter C: e\nTotal de caracteres: (24) (10)\n",
+      "filesEnd": {
+        "salida.txt": "PPppiittoo  ggrriilllloo",
+        "entrada.txt": "Pepito grillo"
+      }
+    },
+    {
+      "stdin": "2\nr\n",
+      "filesIni": {
+        "entrada.txt": "Hola verano"
+      },
+      "stdout": "Introduce un entero N: 2\nIntroduce un caracter C: r\nTotal de caracteres: (20) (10)\n",
+      "filesEnd": {
+        "salida.txt": "HHoollaa  vveeaannoo",
+        "entrada.txt": "Hola verano"
+      }
+    },
+    {
+      "stdin": "2\nr\n",
+      "filesIni": {
+        "entrada.txt": "Pepito grillo"
+      },
+      "stdout": "Introduce un entero N: 2\nIntroduce un caracter C: r\nTotal de caracteres: (24) (10)\n",
+      "filesEnd": {
+        "salida.txt": "PPeeppiittoo  ggiilllloo",
+        "entrada.txt": "Pepito grillo"
+      }
+    },
+    {
+      "stdin": "3\ne\n",
+      "filesIni": {
+        "entrada.txt": "Hola verano"
+      },
+      "stdout": "Introduce un entero N: 3\nIntroduce un caracter C: e\nTotal de caracteres: (30) (10)\n",
+      "filesEnd": {
+        "salida.txt": "HHHooolllaaa   vvvrrraaannnooo",
+        "entrada.txt": "Hola verano"
+      }
+    },
+    {
+      "stdin": "3\ne\n",
+      "filesIni": {
+        "entrada.txt": "Pepito grillo"
+      },
+      "stdout": "Introduce un entero N: 3\nIntroduce un caracter C: e\nTotal de caracteres: (36) (10)\n",
+      "filesEnd": {
+        "salida.txt": "PPPpppiiitttooo   gggrrriiillllllooo",
+        "entrada.txt": "Pepito grillo"
+      }
+    },
+    {
+      "stdin": "3\nr\n",
+      "filesIni": {
+        "entrada.txt": "Hola verano"
+      },
+      "stdout": "Introduce un entero N: 3\nIntroduce un caracter C: r\nTotal de caracteres: (30) (10)\n",
+      "filesEnd": {
+        "salida.txt": "HHHooolllaaa   vvveeeaaannnooo",
+        "entrada.txt": "Hola verano"
+      }
+    },
+    {
+      "stdin": "3\nr\n",
+      "filesIni": {
+        "entrada.txt": "Pepito grillo"
+      },
+      "stdout": "Introduce un entero N: 3\nIntroduce un caracter C: r\nTotal de caracteres: (36) (10)\n",
+      "filesEnd": {
+        "salida.txt": "PPPeeepppiiitttooo   gggiiillllllooo",
+        "entrada.txt": "Pepito grillo"
+      }
+    }
+  ],
+  "p002": [
+    {
+      "stdin": "1\ne\n",
+      "filesIni": {
+        "entrada.txt": "Hola verano"
+      },
+      "stdout": "Introduce un entero N: 1\nIntroduce un caracter C: e\nTotal de caracteres: (10)\n",
+      "filesEnd": {
+        "salida.txt": "Hola vrano",
+        "entrada.txt": "Hola verano"
+      }
+    },
+    {
+      "stdin": "1\ne\n",
+      "filesIni": {
+        "entrada.txt": "Pepito grillo"
+      },
+      "stdout": "Introduce un entero N: 1\nIntroduce un caracter C: e\nTotal de caracteres: (12)\n",
+      "filesEnd": {
+        "salida.txt": "Ppito grillo",
+        "entrada.txt": "Pepito grillo"
+      }
+    },
+    {
+      "stdin": "1\na\n",
+      "filesIni": {
+        "entrada.txt": "Hola verano"
+      },
+      "stdout": "Introduce un entero N: 1\nIntroduce un caracter C: a\nTotal de caracteres: (9)\n",
+      "filesEnd": {
+        "salida.txt": "Hol verno",
+        "entrada.txt": "Hola verano"
+      }
+    },
+    {
+      "stdin": "1\na\n",
+      "filesIni": {
+        "entrada.txt": "Pepito grillo"
+      },
+      "stdout": "Introduce un entero N: 1\nIntroduce un caracter C: a\nTotal de caracteres: (13)\n",
+      "filesEnd": {
+        "salida.txt": "Pepito grillo",
+        "entrada.txt": "Pepito grillo"
+      }
+    },
+    {
+      "stdin": "3\ne\n",
+      "filesIni": {
+        "entrada.txt": "Hola verano"
+      },
+      "stdout": "Introduce un entero N: 3\nIntroduce un caracter C: e\nTotal de caracteres: (30)\n",
+      "filesEnd": {
+        "salida.txt": "HHHooolllaaa   vvvrrraaannnooo",
+        "entrada.txt": "Hola verano"
+      }
+    },
+    {
+      "stdin": "3\ne\n",
+      "filesIni": {
+        "entrada.txt": "Pepito grillo"
+      },
+      "stdout": "Introduce un entero N: 3\nIntroduce un caracter C: e\nTotal de caracteres: (36)\n",
+      "filesEnd": {
+        "salida.txt": "PPPpppiiitttooo   gggrrriiillllllooo",
+        "entrada.txt": "Pepito grillo"
+      }
+    },
+    {
+      "stdin": "3\na\n",
+      "filesIni": {
+        "entrada.txt": "Hola verano"
+      },
+      "stdout": "Introduce un entero N: 3\nIntroduce un caracter C: a\nTotal de caracteres: (27)\n",
+      "filesEnd": {
+        "salida.txt": "HHHooolll   vvveeerrrnnnooo",
+        "entrada.txt": "Hola verano"
+      }
+    },
+    {
+      "stdin": "3\na\n",
+      "filesIni": {
+        "entrada.txt": "Pepito grillo"
+      },
+      "stdout": "Introduce un entero N: 3\nIntroduce un caracter C: a\nTotal de caracteres: (39)\n",
+      "filesEnd": {
+        "salida.txt": "PPPeeepppiiitttooo   gggrrriiillllllooo",
+        "entrada.txt": "Pepito grillo"
+      }
+    }
+  ]
+}
